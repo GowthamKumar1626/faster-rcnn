@@ -1,0 +1,561 @@
+filename,width,height,class,xmin,ymin,xmax,ymax
+/images/valid/5e85791b-b3a7-430e-b3af-e244c2d16f31___GHLB2 Leaf 8747.JPG,256,256,lateblight,138,109,158,130
+/images/valid/26a758e3-7804-4240-b1da-b6b6691355ca___RS_Late.B 4951.JPG,256,256,lateblight,52,63,77,88
+/images/valid/c6cfdcc7-c5e6-45bc-8b5a-709bf2753902___RS_Late.B 7081.JPG,256,256,lateblight,134,92,170,118
+/images/valid/70912b91-8ed2-4ba8-a432-b9c3d3934a63___RS_L.Scorch 1309.JPG,256,256,leafscorch,183,141,210,177
+/images/valid/02e9468a-3eb0-448b-a6b0-f2c8cbc1a9e7___RS_L.Scorch 1469.JPG,256,256,leafscorch,146,130,171,155
+/images/valid/e208828b-bb26-4eb6-a49d-7f0280f443d3___RS_L.Scorch 0955.JPG,256,256,leafscorch,172,144,193,185
+/images/valid/38722737-ce6e-4934-a906-81c7d503b1c9___RS_L.Scorch 1380.JPG,256,256,leafscorch,33,94,61,125
+/images/valid/4fa3fe36-2c59-4860-be94-508954283149___RS_Late.B 5495.JPG,256,256,lateblight,104,137,138,163
+/images/valid/ef848b5e-8c3c-436c-bf74-c3c6008adaf6___RS_L.Scorch 1351.JPG,256,256,leafscorch,161,110,190,128
+/images/valid/c3d1580e-6d97-493b-be27-1dd99d2698ce___RS_L.Scorch 0837.JPG,256,256,leafscorch,179,203,213,235
+/images/valid/f0f8cbf1-f7d3-47e1-8a7c-87df9b65beb2___GHLB2 Leaf 125.1.JPG,256,256,lateblight,75,74,101,106
+/images/valid/9191536b-0dd5-4c85-935a-37fdab6e4fab___RS_Late.B 6042.JPG,256,256,lateblight,89,105,120,125
+/images/valid/6230dafe-8eea-4023-8d62-17102453dd4e___RS_L.Scorch 0159_flipLR.JPG,256,256,leafscorch,141,78,165,124
+/images/valid/0a39aa48-3f94-4696-9e43-ff4a93529dc3___RS_Late.B 5103_flipLR.JPG,256,256,lateblight,133,121,161,155
+/images/valid/53fb0029-fa9c-4d81-9a35-b032faa02939___RS_L.Scorch 1357.JPG,256,256,leafscorch,186,62,208,97
+/images/valid/85b88dd2-5e69-4de4-9f41-e675c21427ac___RS_L.Scorch 1579.JPG,256,256,leafscorch,86,48,121,88
+/images/valid/b883a992-1177-473a-8c0e-c08ebf9ac743___RS_Late.B 5537.JPG,256,256,lateblight,148,74,173,94
+/images/valid/5867b5d9-82bb-4e7f-aeb6-605ce7740708___RS_L.Scorch 0934.JPG,256,256,leafscorch,76,84,102,111
+/images/valid/0a4b3cde-c83a-4c83-b037-010369738152___RS_Late.B 6985_flipLR.JPG,256,256,lateblight,160,115,187,149
+/images/valid/e6703c22-86f7-4bdf-9733-072180761976___RS_Late.B 5522.JPG,256,256,lateblight,55,142,82,169
+/images/valid/67b4c3a2-6d38-4db4-be3e-7655303ae13c___RS_Late.B 5051.JPG,256,256,lateblight,120,88,145,109
+/images/valid/67b4c3a2-6d38-4db4-be3e-7655303ae13c___RS_Late.B 5051.JPG,256,256,lateblight,90,157,120,192
+/images/valid/efc56ba5-70a8-4317-ab0f-e23994abeb7c___RS_L.Scorch 1530.JPG,256,256,leafscorch,157,56,186,88
+/images/valid/1e65a5c4-ba60-4edb-817c-c281d5a5e364___GHLB2 Leaf 9079_flipLR.JPG,256,256,lateblight,81,128,106,152
+/images/valid/03f008be-5b97-4827-a2e2-88136b3c8714___RS_Late.B 6290.JPG,256,256,lateblight,100,127,127,155
+/images/valid/84ee727c-d814-4f2c-8afc-5564ecb4e1a0___RS_L.Scorch 0953_flipLR.JPG,256,256,leafscorch,138,32,176,69
+/images/valid/84ee727c-d814-4f2c-8afc-5564ecb4e1a0___RS_L.Scorch 0953_flipLR.JPG,256,256,leafscorch,31,90,53,115
+/images/valid/f27d1b5c-46e2-442f-846d-dd5c6018bb2a___RS_Late.B 6984.JPG,256,256,lateblight,99,93,130,119
+/images/valid/f27d1b5c-46e2-442f-846d-dd5c6018bb2a___RS_Late.B 6984.JPG,256,256,lateblight,168,7,206,40
+/images/valid/39535fa7-1b38-4828-9294-da1c24aa33ef___RS_Late.B 6901.JPG,256,256,lateblight,126,174,154,197
+/images/valid/cad32686-aa52-4c8d-85e7-2578027af2a5___RS_Late.B 4857.JPG,256,256,lateblight,121,82,146,116
+/images/valid/a573390c-b351-4531-8985-46eebd625999___RS_L.Scorch 1563_flipLR.JPG,256,256,leafscorch,168,100,190,129
+/images/valid/56226d25-dadc-4c38-8a06-cba810b38c42___GHLB2 Leaf 154.1.JPG,256,256,lateblight,112,128,137,157
+/images/valid/525e419d-7077-44be-87f1-aef32ef27a2e___GHLB2 Leaf 96.JPG,256,256,lateblight,135,113,158,135
+/images/valid/e5b81597-d794-40e5-8f14-0b5792c4a680___RS_Late.B 6757.JPG,256,256,lateblight,158,90,188,119
+/images/valid/7ac5bc30-d798-4205-a5a6-1235eae3a66d___RS_L.Scorch 1533.JPG,256,256,leafscorch,170,87,199,113
+/images/valid/64dabc80-1652-4098-89c2-64bd594988e4___RS_L.Scorch 1213.JPG,256,256,leafscorch,100,31,131,67
+/images/valid/47e92d20-e9f4-473c-8ca2-7ee794e4439b___RS_L.Scorch 1257.JPG,256,256,leafscorch,55,201,96,230
+/images/valid/320d687e-0c4f-4ecc-bf4c-b2d1aaf2fd20___RS_L.Scorch 0855_flipLR.JPG,256,256,leafscorch,102,164,134,200
+/images/valid/2ca86722-3dd1-41ae-adcd-cc7b7c62f7b3___RS_L.Scorch 0043_flipLR.JPG,256,256,leafscorch,103,18,137,55
+/images/valid/a6a07e9c-1300-48df-bd43-6c0631bb3ced___RS_Late.B 4958.JPG,256,256,lateblight,73,83,99,101
+/images/valid/71949ffd-d402-445b-8827-065b433bb5cb___RS_L.Scorch 1255_flipLR.JPG,256,256,leafscorch,45,142,83,173
+/images/valid/627c5058-c67f-4bb9-9cbb-7e3529e8178b___RS_L.Scorch 0034.JPG,256,256,leafscorch,93,64,120,108
+/images/valid/3b234433-9b25-4e29-b2d4-65b9f1b38d6f___RS_L.Scorch 1307_flipLR.JPG,256,256,leafscorch,50,146,78,185
+/images/valid/a38d671f-4582-4ee9-b994-63f2343821e8___GHLB2 Leaf 8592.JPG,256,256,lateblight,113,110,136,131
+/images/valid/67bb7136-ae93-4839-853b-26e6cbf868f6___GHLB2 Leaf 105.JPG,256,256,lateblight,146,55,178,86
+/images/valid/d2d6b4e7-806e-43ce-bf1b-d73c887c7bc3___RS_L.Scorch 0059_flipLR.JPG,256,256,leafscorch,194,176,221,207
+/images/valid/dbd66146-54e6-4621-870d-24208b99e254___RS_Late.B 7051.JPG,256,256,lateblight,51,40,82,70
+/images/valid/49d4fbb9-749c-4477-af9d-f347ad55d276___RS_L.Scorch 1118_flipLR.JPG,256,256,leafscorch,175,68,205,111
+/images/valid/6dd1bc0c-72c3-420c-aa48-c3bb4ca8dc7c___GHLB2 Leaf 83.1.JPG,256,256,lateblight,86,102,120,134
+/images/valid/3b9d96f9-c4c9-4b42-aeb6-6f747652529f___RS_L.Scorch 1359_flipLR.JPG,256,256,leafscorch,46,111,79,138
+/images/valid/f8c43823-8efa-4f97-8e37-8ab7e0115fd0___RS_L.Scorch 1604.JPG,256,256,leafscorch,158,58,191,93
+/images/valid/c5aa66d1-22cf-48af-a622-a9fbbd0d2c00___RS_L.Scorch 1499_flipLR.JPG,256,256,leafscorch,132,65,154,93
+/images/valid/6f67cdb9-ea4c-4607-91dd-97763d14b2e2___RS_L.Scorch 1026.JPG,256,256,leafscorch,34,145,60,176
+/images/valid/61b18bc0-9f48-4627-960a-1537767e1eec___RS_L.Scorch 1207_flipLR.JPG,256,256,leafscorch,71,81,98,111
+/images/valid/afc3d229-2150-4ce3-8f3f-ef06ccb7a6e5___RS_L.Scorch 1153.JPG,256,256,leafscorch,59,136,95,175
+/images/valid/d75b11d5-4be2-4543-a2cf-11d1aed9755b___RS_L.Scorch 0999.JPG,256,256,leafscorch,176,71,199,98
+/images/valid/dd84ae03-7d7d-4e12-8f9f-f684abdcb320___RS_Late.B 5637.JPG,256,256,lateblight,147,50,178,86
+/images/valid/0e244a32-08cd-471c-90dd-141c354c20b3___GHLB2 Leaf 8634.JPG,256,256,lateblight,125,129,143,147
+/images/valid/4505676e-d70e-460e-bac1-ce20d94f3944___GHLB2 Leaf 158.2.JPG,256,256,lateblight,108,135,133,156
+/images/valid/8104d6da-f597-4b96-ace9-a47c878dabf6___RS_L.Scorch 1483.JPG,256,256,leafscorch,145,125,174,155
+/images/valid/4f7ef1ad-0f24-41a9-9d62-6bf1c406c980___RS_L.Scorch 1070_flipLR.JPG,256,256,leafscorch,139,159,169,188
+/images/valid/5ba6fbc5-a1de-4600-b0aa-9d8b8c222183___RS_Late.B 6181_flipLR.JPG,256,256,lateblight,94,139,130,164
+/images/valid/e5b328bf-1f13-4831-bd63-b1bdb30f02d9___GHLB2 Leaf 8674.JPG,256,256,lateblight,95,46,117,70
+/images/valid/2e8f61d8-0d5d-46e3-a597-ede96855a4fe___RS_Late.B 5352_flipLR.JPG,256,256,lateblight,72,103,101,133
+/images/valid/1388ef9c-6d08-4c30-8966-e43d7e299aa7___RS_L.Scorch 0071.JPG,256,256,leafscorch,105,106,138,142
+/images/valid/fe40f496-5ce4-4b41-8359-998677cc124f___RS_L.Scorch 1347_flipLR.JPG,256,256,leafscorch,203,89,231,121
+/images/valid/95640426-92f4-4549-97b0-aa7b7d5fad8c___RS_L.Scorch 1495_flipLR.JPG,256,256,leafscorch,64,64,106,94
+/images/valid/7a711eda-02e6-49fa-9d2c-8463330fa797___RS_Late.B 5045_flipLR.JPG,256,256,lateblight,124,62,151,92
+/images/valid/021a9808-21f7-464a-8df2-2eda5ed98eda___RS_Late.B 5356.JPG,256,256,lateblight,115,148,141,175
+/images/valid/0967e1a2-99fb-44e4-b940-60eb79da62b9___RS_L.Scorch 1247_flipLR.JPG,256,256,leafscorch,206,121,238,150
+/images/valid/dbdf6e02-338a-4188-bb56-66fb96c41927___RS_L.Scorch 0901_flipLR.JPG,256,256,leafscorch,155,93,181,120
+/images/valid/3102efb7-6d3d-41db-aac8-587014fefe49___GHLB2 Leaf 9053.JPG,256,256,lateblight,124,169,155,200
+/images/valid/e0bea030-e8ac-4f3c-a87d-bca3090ad600___RS_Late.B 6434.JPG,256,256,lateblight,132,78,161,105
+/images/valid/aaf9718f-2f9a-4211-ae46-42b8640ce626___RS_L.Scorch 0793_flipLR.JPG,256,256,leafscorch,117,41,148,70
+/images/valid/6cd183e0-9e97-4e80-a956-7c81bd06ab8b___RS_Late.B 6621.JPG,256,256,lateblight,81,119,106,157
+/images/valid/6cd183e0-9e97-4e80-a956-7c81bd06ab8b___RS_Late.B 6621.JPG,256,256,lateblight,58,193,88,228
+/images/valid/f9f5cfa8-79df-4ed7-ba61-e7610509b3a5___RS_Late.B 6496.JPG,256,256,lateblight,112,134,145,158
+/images/valid/a13d559d-f908-4b00-b3a3-a0ebd6a15e57___RS_L.Scorch 1578_flipLR.JPG,256,256,leafscorch,160,54,187,81
+/images/valid/f932b03b-050d-4d4a-9076-6823efc1cb73___RS_L.Scorch 0856_flipLR.JPG,256,256,leafscorch,112,31,142,66
+/images/valid/4f52cae6-d6f1-4557-987a-eb9318dc574f___RS_Late.B 6439.JPG,256,256,lateblight,102,83,128,107
+/images/valid/50ee2f48-e5f7-4eda-8bc9-9d501fedbe8f___RS_Late.B 4933.JPG,256,256,lateblight,73,98,105,117
+/images/valid/97bcae7e-cee8-4537-aad3-2732e6f1ad88___RS_L.Scorch 1302_flipLR.JPG,256,256,leafscorch,193,97,215,127
+/images/valid/2e82c861-d69e-43e8-803c-b5f21f3b4cc0___RS_L.Scorch 0835.JPG,256,256,leafscorch,191,202,216,227
+/images/valid/54b808b7-ab47-4ce0-992c-cc02588ec6a9___GHLB2 Leaf 8623.JPG,256,256,lateblight,95,156,133,170
+/images/valid/d25ad1a1-3d38-489b-9ecb-34130b89fe9b___RS_L.Scorch 1103_flipLR.JPG,256,256,leafscorch,41,106,69,134
+/images/valid/9631e500-ef1d-4320-95f0-71bea864ed82___RS_L.Scorch 0857.JPG,256,256,leafscorch,91,179,117,204
+/images/valid/449c9233-a3bb-4743-874b-f5d092d652b9___GHLB2 Leaf 8975.JPG,256,256,lateblight,125,123,150,143
+/images/valid/05063afb-0737-43d3-ae23-9bb42743bf7f___RS_L.Scorch 1097_flipLR.JPG,256,256,leafscorch,168,52,199,89
+/images/valid/32482915-ead6-4e0e-8b3e-a14dd3546b0f___GHLB2 Leaf 8595.JPG,256,256,lateblight,106,123,135,145
+/images/valid/a41982b4-98ca-40de-a386-96e865a3dd21___RS_Late.B 6138.JPG,256,256,lateblight,39,121,69,146
+/images/valid/534dba84-d298-46bc-ac4a-c23e7c982ee4___RS_Late.B 4993.JPG,256,256,lateblight,178,52,203,74
+/images/valid/7d8cbbfc-89e2-4fe5-9624-89b353d78832___RS_Late.B 5176_flipLR.JPG,256,256,lateblight,91,122,116,150
+/images/valid/7ee00267-be66-4b6a-a207-0bf0046d28b6___RS_Late.B 6909_flipLR.JPG,256,256,lateblight,69,157,98,182
+/images/valid/b62c8328-7089-4b43-b77e-20511356d04b___RS_Late.B 5490.JPG,256,256,lateblight,96,78,125,104
+/images/valid/0c3c9e71-d339-4201-a32a-7a28f0556258___RS_L.Scorch 0930.JPG,256,256,leafscorch,71,43,101,77
+/images/valid/66e1a9d0-bca6-4c01-89c7-00cc0acbe810___RS_L.Scorch 1156_flipLR.JPG,256,256,leafscorch,49,67,83,98
+/images/valid/08a7ee49-dca5-41e9-8349-15816300d1cc___RS_L.Scorch 1025.JPG,256,256,leafscorch,28,116,63,150
+/images/valid/cedebb08-bf5c-434a-931e-63ce9621b77e___GHLB2 Leaf 9091.JPG,256,256,lateblight,94,95,124,122
+/images/valid/f4aa3db8-2ad1-4abc-bb2e-4b63ed4d966a___GHLB2 Leaf 107.2.JPG,256,256,lateblight,116,63,140,96
+/images/valid/506f24fb-92f4-4fe6-9d67-31e3ddd05fc0___GHLB2 Leaf 8819.JPG,256,256,lateblight,143,97,168,127
+/images/valid/aa5594a4-0679-4f85-bc2e-ff65342aaca1___GHLB2 Leaf 71.JPG,256,256,lateblight,108,41,135,65
+/images/valid/5b71f955-289e-4279-896c-b79d69c8dd5e___RS_Late.B 6495.JPG,256,256,lateblight,76,91,108,118
+/images/valid/5b71f955-289e-4279-896c-b79d69c8dd5e___RS_Late.B 6495.JPG,256,256,lateblight,125,140,160,169
+/images/valid/118be78d-e498-427f-8399-add5e8ab1b15___GHLB2 Leaf 149.3.JPG,256,256,lateblight,111,99,137,125
+/images/valid/f10b17bb-4841-4c98-9557-27d866eed36a___RS_L.Scorch 0109.JPG,256,256,leafscorch,61,152,81,172
+/images/valid/c4e95382-4bc7-4271-89ba-889f1dc55a2b___GHLB2 Leaf 9093.JPG,256,256,lateblight,108,145,136,167
+/images/valid/3dbb0f53-7541-4b25-b7ef-797800e2b1b7___RS_Late.B 7135.JPG,256,256,lateblight,98,128,128,156
+/images/valid/e9e6f06a-c84c-4b86-8017-845d15da112a___RS_L.Scorch 1443.JPG,256,256,leafscorch,41,86,62,106
+/images/valid/c614e6d5-04cc-4846-9867-84c83961c5cf___GHLB2 Leaf 8617.JPG,256,256,lateblight,93,58,115,81
+/images/valid/541b1d99-c630-4730-861f-a8ef53615709___GHLB2 Leaf 8857.JPG,256,256,lateblight,116,139,141,156
+/images/valid/2aec9930-0331-4e04-8bc0-5c00f373fbf3___GHLB2 Leaf 8993.JPG,256,256,lateblight,143,75,166,101
+/images/valid/7879051c-bbca-4c32-946d-34cf2a02434d___GHLB2 Leaf 8851.JPG,256,256,lateblight,82,145,98,169
+/images/valid/de272472-c653-4102-beac-6813da817d21___GHLB2 Leaf 153.2.JPG,256,256,lateblight,128,188,151,222
+/images/valid/a1f1f31f-36ab-49a9-bfb4-aa21ed90dfbc___RS_Late.B 4874.JPG,256,256,lateblight,189,44,222,68
+/images/valid/e93721af-a478-4021-8d9a-bffdc1ba7c45___RS_Late.B 5050.JPG,256,256,lateblight,138,96,172,122
+/images/valid/e93721af-a478-4021-8d9a-bffdc1ba7c45___RS_Late.B 5050.JPG,256,256,lateblight,59,121,91,152
+/images/valid/2f6eb969-db8b-48ae-954d-f716a61fce22___RS_Late.B 6555_flipLR.JPG,256,256,lateblight,160,99,190,134
+/images/valid/aff90d5c-a3f2-445a-b125-717a00b21fb8___RS_Late.B 6624.JPG,256,256,lateblight,95,107,128,135
+/images/valid/240b17f3-2b2b-4ff4-add7-4ba2975f4837___RS_Late.B 5130.JPG,256,256,lateblight,153,84,180,112
+/images/valid/288f203e-7996-4290-afa7-f95c0c30506a___RS_Late.B 5562.JPG,256,256,lateblight,133,141,166,173
+/images/valid/8c6dbc42-33b9-4b89-bc18-a6c54188942b___RS_L.Scorch 0914.JPG,256,256,leafscorch,133,46,157,74
+/images/valid/9bb49d22-976d-40c3-bc9a-bff5cbbd8e28___RS_Late.B 5057.JPG,256,256,lateblight,100,91,142,121
+/images/valid/d63a4b03-0317-4385-9fa4-dd406158df53___RS_L.Scorch 0963_flipLR.JPG,256,256,leafscorch,86,40,117,70
+/images/valid/208522fa-0476-4bbe-9b37-4363a04da561___RS_L.Scorch 1150_flipLR.JPG,256,256,leafscorch,40,162,72,200
+/images/valid/7a711eda-02e6-49fa-9d2c-8463330fa797___RS_Late.B 5045.JPG,256,256,lateblight,110,77,142,109
+/images/valid/cdeb7f9d-c0de-4fbd-95a5-fbaaa51460dd___RS_Late.B 5571.JPG,256,256,lateblight,96,130,119,165
+/images/valid/cdeb7f9d-c0de-4fbd-95a5-fbaaa51460dd___RS_Late.B 5571.JPG,256,256,lateblight,111,75,137,109
+/images/valid/35baedd2-975e-4a48-b468-5b7203bab631___GHLB2 Leaf 8936.JPG,256,256,lateblight,66,94,91,121
+/images/valid/35baedd2-975e-4a48-b468-5b7203bab631___GHLB2 Leaf 8936.JPG,256,256,lateblight,81,151,107,175
+/images/valid/75ab27f9-4a06-4ec8-a335-078802c71fe0___RS_Late.B 5384.JPG,256,256,lateblight,164,123,189,155
+/images/valid/41c17ca1-4e7d-430f-ad74-4ca46ab1cba0___RS_L.Scorch 0137.JPG,256,256,leafscorch,203,213,233,234
+/images/valid/41c17ca1-4e7d-430f-ad74-4ca46ab1cba0___RS_L.Scorch 0137.JPG,256,256,leafscorch,169,34,201,55
+/images/valid/2272d3ae-de6d-4fcd-af45-098cb2cd0fdf___RS_L.Scorch 1086_flipLR.JPG,256,256,leafscorch,51,121,72,156
+/images/valid/4be05670-885c-4a87-a22a-dfb89f0b15d0___RS_Late.B 6588.JPG,256,256,lateblight,122,75,149,107
+/images/valid/fdbd115d-4709-42eb-90ce-278a33fc3e7e___RS_L.Scorch 0079_flipLR.JPG,256,256,leafscorch,51,197,80,222
+/images/valid/00ce4c63-9913-4b16-898c-29f99acf0dc3___RS_Late.B 4982_flipLR.JPG,256,256,lateblight,140,128,160,159
+/images/valid/5f3a7632-91cb-4b5f-a36f-9e31f8daf5d5___GHLB2 Leaf 9056_flipLR.JPG,256,256,lateblight,120,202,146,225
+/images/valid/eec60b8d-2211-4672-996b-8242e816d60f___RS_L.Scorch 1605_flipLR.JPG,256,256,leafscorch,99,71,122,100
+/images/valid/4780f75c-a79a-47e6-89a0-7ecb5d18876e___RS_Late.B 5499.JPG,256,256,lateblight,38,68,75,98
+/images/valid/1c35f7ce-8e8e-4c20-b625-b01f9bf7d0cd___GHLB2 Leaf 111_flipLR.JPG,256,256,lateblight,117,123,142,149
+/images/valid/046c65f2-b155-4018-b161-825191c5faaa___RS_Late.B 5042.JPG,256,256,lateblight,122,79,155,106
+/images/valid/2ec39ffa-c356-4d31-8153-f2e4bc9a1449___RS_Late.B 5164_flipLR.JPG,256,256,lateblight,160,125,183,150
+/images/valid/b61b92f6-9991-4f85-a9a6-c3993720d842___GHLB2 Leaf 9067.JPG,256,256,lateblight,124,162,155,190
+/images/valid/c18ccf4d-dbd1-4387-931d-d26b619543f2___RS_L.Scorch 1338_flipLR.JPG,256,256,leafscorch,181,93,211,120
+/images/valid/4e9c1dac-62c2-4699-bcda-5bdc3740f267___GHLB2 Leaf 8740_flipLR.JPG,256,256,lateblight,156,120,176,145
+/images/valid/534d2c9b-34ad-4786-b2dd-fd73c8e4d005___GHLB2 Leaf 8852.JPG,256,256,lateblight,99,109,111,138
+/images/valid/afc3d229-2150-4ce3-8f3f-ef06ccb7a6e5___RS_L.Scorch 1153_flipLR.JPG,256,256,leafscorch,43,105,76,140
+/images/valid/cf8aeac0-eb5e-4b21-9d20-6dec6e64e87f___RS_L.Scorch 0852_flipLR.JPG,256,256,leafscorch,116,156,157,184
+/images/valid/01d11a79-f858-4e58-9b14-c3f0619af1f7___RS_L.Scorch 0090.JPG,256,256,leafscorch,119,100,141,135
+/images/valid/d8a99372-7089-42b5-9810-f55454157bc0___RS_L.Scorch 1117_flipLR.JPG,256,256,leafscorch,182,113,216,148
+/images/valid/07eb29e8-112d-4bcb-8b65-aba4b4307f2a___RS_Late.B 6907_flipLR.JPG,256,256,lateblight,98,138,138,167
+/images/valid/07eb29e8-112d-4bcb-8b65-aba4b4307f2a___RS_Late.B 6907.JPG,256,256,lateblight,145,137,175,162
+/images/valid/5828f9c7-5083-45c3-b3bb-bb202ed1cd53___GHLB2 Leaf 128.1.JPG,256,256,lateblight,121,142,160,180
+/images/valid/5ee4e525-31bd-415c-9f64-30746c2434d7___RS_Late.B 4883.JPG,256,256,lateblight,105,150,128,168
+/images/valid/9f8563bf-4df6-4d08-a886-096b2b48e60d___RS_L.Scorch 0994.JPG,256,256,leafscorch,192,98,218,131
+/images/valid/1f200e50-7cb5-4a83-8ecd-dcf133f1f45e___GHLB2 Leaf 8991.JPG,256,256,lateblight,131,83,156,106
+/images/valid/bcae87ed-fbc3-4e4a-bd23-d689c0cd56e6___RS_L.Scorch 9901_flipLR.JPG,256,256,leafscorch,184,40,203,69
+/images/valid/2159d0f7-09ef-46ad-ad49-749e8ce1becc___GHLB2 Leaf 8836.JPG,256,256,lateblight,99,103,125,126
+/images/valid/ec3d3481-5b97-446c-a1e7-c97334166a50___RS_Late.B 7029.JPG,256,256,lateblight,157,76,191,103
+/images/valid/ec3d3481-5b97-446c-a1e7-c97334166a50___RS_Late.B 7029.JPG,256,256,lateblight,130,118,160,153
+/images/valid/39c5ef21-730a-4e51-9eb0-a7639295c116___RS_Late.B 5157.JPG,256,256,lateblight,113,65,147,96
+/images/valid/3ce5d5e5-3f64-45d2-b7ca-1b6d7141e5d8___RS_L.Scorch 1586.JPG,256,256,leafscorch,43,79,74,107
+/images/valid/1672eb34-46ef-4987-a45b-7dd6e0d6a31d___RS_L.Scorch 0003.JPG,256,256,leafscorch,85,49,116,90
+/images/valid/f8176522-163b-48ee-a1a2-ea94c782b4ad___RS_Late.B 6137.JPG,256,256,lateblight,108,178,141,208
+/images/valid/d8856c76-c822-408c-9113-e1eadedb5cba___RS_Late.B 5491.JPG,256,256,lateblight,158,70,186,100
+/images/valid/d8856c76-c822-408c-9113-e1eadedb5cba___RS_Late.B 5491.JPG,256,256,lateblight,80,94,109,120
+/images/valid/0ab1cab4-a0c9-4323-9a64-cdafa4342a9b___GHLB2 Leaf 8918_flipLR.JPG,256,256,lateblight,138,67,156,89
+/images/valid/5e590575-5588-422f-96a7-5e8c920fc7e2___GHLB2 Leaf 8671_flipLR.JPG,256,256,lateblight,115,162,148,180
+/images/valid/63385691-5de8-4652-abe5-15727fdcab4b___RS_Late.B 5342.JPG,256,256,lateblight,158,149,185,182
+/images/valid/5e7a999e-6617-4c94-8c57-c1b0e1a392b9___RS_Late.B 5636_flipLR.JPG,256,256,lateblight,135,135,174,163
+/images/valid/5e7a999e-6617-4c94-8c57-c1b0e1a392b9___RS_Late.B 5636_flipLR.JPG,256,256,lateblight,134,54,168,93
+/images/valid/f37f0878-31f2-402b-81c6-dd1af6e15899___RS_Late.B 5222.JPG,256,256,lateblight,99,143,128,174
+/images/valid/f37f0878-31f2-402b-81c6-dd1af6e15899___RS_Late.B 5222.JPG,256,256,lateblight,140,89,187,118
+/images/valid/41c17ca1-4e7d-430f-ad74-4ca46ab1cba0___RS_L.Scorch 0137_flipLR.JPG,256,256,leafscorch,53,29,83,71
+/images/valid/e5d815b6-dd10-41a3-83e7-c25b6fd5d0c2___GHLB2 Leaf 9015.JPG,256,256,lateblight,117,134,141,166
+/images/valid/b9ea725a-7cd8-4a19-8b5b-e1aae0e5b79f___RS_L.Scorch 1571_flipLR.JPG,256,256,leafscorch,53,60,78,89
+/images/valid/0b621f92-ed95-41ed-ad6d-09db095b026c___RS_L.Scorch 1410.JPG,256,256,leafscorch,71,154,97,184
+/images/valid/63b0535e-f6c3-4d0e-805f-1d06419e66a7___RS_L.Scorch 1548.JPG,256,256,leafscorch,161,90,185,122
+/images/valid/2f5aefb2-4bdc-4a55-81e3-c19a6982b605___RS_Late.B 4856.JPG,256,256,lateblight,97,189,124,219
+/images/valid/54af5ffb-2c20-41e4-895c-faa241fae089___RS_L.Scorch 1413.JPG,256,256,leafscorch,57,158,82,189
+/images/valid/dbdf6e02-338a-4188-bb56-66fb96c41927___RS_L.Scorch 0901.JPG,256,256,leafscorch,64,93,99,134
+/images/valid/5c5142ea-6b6b-4ea5-bd9c-b2da28bfadfa___RS_Late.B 5634_flipLR.JPG,256,256,lateblight,98,133,132,158
+/images/valid/772e3007-0263-45ec-b7f2-fd283d3fcd90___RS_Late.B 5578.JPG,256,256,lateblight,89,145,123,167
+/images/valid/7f8ff945-6a8a-470b-aa5f-0b3f5ce87c01___GHLB Leaf 1.2 Day 13.JPG,256,256,lateblight,158,181,203,224
+/images/valid/93ac9f1d-6694-44db-ad77-b9b8470cab1b___GHLB2 Leaf 8796.JPG,256,256,lateblight,116,71,141,99
+/images/valid/0d98a9eb-18e7-47e7-9010-196189bae113___RS_Late.B 5047_flipLR.JPG,256,256,lateblight,137,128,154,161
+/images/valid/5e4d4035-89da-4096-a74d-bc45770d80a4___RS_L.Scorch 0997.JPG,256,256,leafscorch,166,69,192,99
+/images/valid/1745208a-82b2-4a82-9791-d812cb016850___GHLB2 Leaf 95.JPG,256,256,lateblight,139,86,160,109
+/images/valid/53939f7c-9d3f-46a8-bbc1-3e1f4b622be4___RS_L.Scorch 0163.JPG,256,256,leafscorch,69,130,100,155
+/images/valid/c7da2f97-d7de-4518-be0a-7ebcb1f448f3___RS_L.Scorch 1284_flipLR.JPG,256,256,leafscorch,45,82,78,113
+/images/valid/8b37de5f-4c98-4880-b1a8-a921178959a9___RS_Late.B 6248_flipLR.JPG,256,256,lateblight,131,175,163,201
+/images/valid/8b37de5f-4c98-4880-b1a8-a921178959a9___RS_Late.B 6248_flipLR.JPG,256,256,lateblight,60,154,86,179
+/images/valid/1546f916-115c-42dc-90c7-ff8d53c4273f___RS_Late.B 4836.JPG,256,256,lateblight,104,40,132,82
+/images/valid/eebf0bd7-6f8c-4ed9-9f2b-af87096e54c3___RS_L.Scorch 1256.JPG,256,256,leafscorch,74,48,106,87
+/images/valid/e479463e-ecf2-4b9d-bac1-4dd698b13b81___RS_L.Scorch 1348_flipLR.JPG,256,256,leafscorch,52,94,76,119
+/images/valid/131e39bc-35b5-4bf9-b895-6d50db8204dd___RS_L.Scorch 1343.JPG,256,256,leafscorch,184,127,217,167
+/images/valid/3760f75a-8ba2-4841-bc39-cfefa4509541___RS_L.Scorch 1063.JPG,256,256,leafscorch,52,101,69,123
+/images/valid/a0616fa9-80fb-497d-8791-a9689aecb27f___GHLB2 Leaf 150.2.JPG,256,256,lateblight,197,139,221,166
+/images/valid/23c5c930-6830-46c6-8353-616c0b34ae12___RS_Late.B 4947.JPG,256,256,lateblight,127,47,157,69
+/images/valid/33456e3e-53a3-4be9-be9c-64fe7cd821a8___RS_L.Scorch 1355.JPG,256,256,leafscorch,150,44,175,84
+/images/valid/b9b1cf81-a68a-48a5-b3f2-25b45ecc81f7___RS_Late.B 5423.JPG,256,256,lateblight,84,97,119,129
+/images/valid/f33028e4-68df-4312-ba25-94d65f03efcf___RS_Late.B 5530.JPG,256,256,lateblight,129,109,152,143
+/images/valid/634c3515-80da-4144-8cc8-9b8bb29134ec___RS_Late.B 5481.JPG,256,256,lateblight,111,92,146,122
+/images/valid/e7742c1f-7ea0-40a1-834e-eea9cf538641___RS_L.Scorch 0076.JPG,256,256,leafscorch,218,98,238,127
+/images/valid/9fe7fda1-ecda-4803-abd6-8eb1b281cff2___RS_L.Scorch 1358_flipLR.JPG,256,256,leafscorch,45,83,70,116
+/images/valid/5867b5d9-82bb-4e7f-aeb6-605ce7740708___RS_L.Scorch 0934_flipLR.JPG,256,256,leafscorch,186,130,216,160
+/images/valid/b09b2807-58ca-4708-904e-05de3032ef92___RS_Late.B 6345.JPG,256,256,lateblight,145,134,175,154
+/images/valid/8d611dca-11e1-4970-9806-599173ed158d___RS_Late.B 5181_flipLR.JPG,256,256,lateblight,132,144,161,176
+/images/valid/cf0469e3-6a8c-4d3b-a1d3-43b99619b472___GHLB2 Leaf 8699.JPG,256,256,lateblight,105,163,132,188
+/images/valid/82e462d5-14fb-4530-a8b8-c844d1cc5f43___GHLB2 Leaf 8701.JPG,256,256,lateblight,121,136,136,161
+/images/valid/627c5058-c67f-4bb9-9cbb-7e3529e8178b___RS_L.Scorch 0034_flipLR.JPG,256,256,leafscorch,136,71,162,105
+/images/valid/fc0cec90-4a1e-4cdc-95cf-a34abc1dc8c9___GHLB2 Leaf 117.2.JPG,256,256,lateblight,70,137,97,163
+/images/valid/a78725bd-f2c9-405e-8591-c8b009f43ea7___RS_Late.B 4918.JPG,256,256,lateblight,170,67,198,88
+/images/valid/1b7d11ff-e94c-45cb-9ef2-6430f989e90e___GHLB2 Leaf 120.1.JPG,256,256,lateblight,159,117,190,153
+/images/valid/57c53f65-3137-41d3-9bf7-7ac867f3efe8___RS_Late.B 6255.JPG,256,256,lateblight,78,104,117,129
+/images/valid/5ac8e2d9-f9f7-49b1-ad79-f05a60d3ebd2___RS_L.Scorch 1173.JPG,256,256,leafscorch,75,88,110,121
+/images/valid/dce856b2-1c63-4305-97ab-5ab443f462bf___RS_Late.B 6099.JPG,256,256,lateblight,126,190,154,214
+/images/valid/1d83eef4-92a0-42a2-9ea7-1ec2e683dbc0___GHLB2 Leaf 8809.JPG,256,256,lateblight,76,75,99,101
+/images/valid/bfe9051f-57f9-418c-880d-6b6aee0130c0___RS_L.Scorch 1585.JPG,256,256,leafscorch,114,42,138,78
+/images/valid/dcee9fe0-4d34-4e78-8adf-357eb0ae715e___RS_L.Scorch 1137.JPG,256,256,leafscorch,139,37,163,70
+/images/valid/5c0dc87a-f671-4085-93c5-1454ee859caf___RS_Late.B 6271_flipLR.JPG,256,256,lateblight,97,115,128,150
+/images/valid/407672bf-00e1-4362-acf9-cf10aae32dec___GHLB2 Leaf 8844.JPG,256,256,lateblight,92,108,116,132
+/images/valid/35f54a01-f19e-422c-bf6f-95a4b84bd6cf___RS_L.Scorch 1059_flipLR.JPG,256,256,leafscorch,88,44,119,71
+/images/valid/5d5d8789-8979-4e2d-ac17-7228e8af61c9___RS_Late.B 5109_flipLR.JPG,256,256,lateblight,74,58,105,84
+/images/valid/8243854c-24f1-49e5-b568-819ae3867a8c___RS_Late.B 7143.JPG,256,256,lateblight,123,79,146,110
+/images/valid/739d6880-fbff-462a-a06b-5a95b340f706___RS_Late.B 6101.JPG,256,256,lateblight,161,129,186,164
+/images/valid/b15e2e55-cc14-4e0c-9755-423ee47c3836___RS_L.Scorch 1051_flipLR.JPG,256,256,leafscorch,94,38,126,66
+/images/valid/e686c35e-fcb4-463b-ad2a-2c1da18135bb___GHLB2 Leaf 9023.JPG,256,256,lateblight,73,108,96,143
+/images/valid/2ac8376a-3401-4572-af45-6984e6415996___GHLB2 Leaf 8787_flipLR.JPG,256,256,lateblight,153,141,177,170
+/images/valid/bf6cc0d5-0c8c-4a49-80d1-970c3e691073___RS_Late.B 4987.JPG,256,256,lateblight,117,114,147,143
+/images/valid/b91a707a-4ea5-4af7-a19e-bc7db68d6d55___RS_L.Scorch 0036.JPG,256,256,leafscorch,86,98,112,128
+/images/valid/7e92fb02-314e-4cad-a30d-e478b216bce4___RS_Late.B 6890.JPG,256,256,lateblight,76,107,95,133
+/images/valid/226a2cf0-d065-492d-93bf-502dae8aca94___RS_Late.B 6417.JPG,256,256,lateblight,147,171,176,206
+/images/valid/28c8910e-96b7-469a-93e9-06e4b527bda1___RS_L.Scorch 0969.JPG,256,256,leafscorch,160,71,190,109
+/images/valid/42579a41-271a-420c-84df-fe08213c3600___RS_L.Scorch 0103_flipLR.JPG,256,256,leafscorch,148,190,180,217
+/images/valid/aba6fc41-d333-40a8-b3d4-1d72ac2067fe___GHLB2 Leaf 8691.JPG,256,256,lateblight,84,60,104,83
+/images/valid/b27c48d1-189e-4187-9535-78dc1c8a803e___RS_Late.B 6789.JPG,256,256,lateblight,67,131,94,154
+/images/valid/1f38b254-2338-4e4a-b772-2a8e60ca8bc0___GHLB2 Leaf 121.3.JPG,256,256,lateblight,115,113,145,142
+/images/valid/62b39b7f-e1f5-4015-970c-825e38d3aab8___RS_L.Scorch 0949_flipLR.JPG,256,256,leafscorch,67,59,102,88
+/images/valid/13971547-97a9-4bc8-b843-93aa3247351d___RS_L.Scorch 0932.JPG,256,256,leafscorch,78,92,122,137
+/images/valid/37e2c3d9-dba0-4e99-918c-7c324afef625___RS_L.Scorch 1356_flipLR.JPG,256,256,leafscorch,114,40,151,81
+/images/valid/7c163fda-ae67-4733-8fe3-f59d8ab20a5a___GHLB2 Leaf 8805.JPG,256,256,lateblight,137,152,159,178
+/images/valid/f1883781-b665-42dc-be24-60d5170361fd___RS_L.Scorch 0039.JPG,256,256,leafscorch,137,180,169,202
+/images/valid/58c55232-ea2b-4ca9-9893-5f2f610969db___RS_Late.B 5448.JPG,256,256,lateblight,113,123,148,159
+/images/valid/92abb825-be04-4ddd-a5d6-68b5c3900ba6___RS_Late.B 7128.JPG,256,256,lateblight,90,114,123,146
+/images/valid/ea5e3f60-2a08-45b9-94b7-f0b934a1a3e4___RS_Late.B 5055.JPG,256,256,lateblight,119,65,153,96
+/images/valid/29cc5bdf-3f0b-477c-94e4-5e30ed44e2f0___RS_L.Scorch 1185.JPG,256,256,leafscorch,166,69,201,102
+/images/valid/0ba7d3d8-5c4c-4365-ba0c-69f61e96a36e___RS_Late.B 5312.JPG,256,256,lateblight,148,116,175,147
+/images/valid/9751ae34-d376-465d-9fce-ddb75caf98d2___GHLB2 Leaf 8781.JPG,256,256,lateblight,112,112,137,135
+/images/valid/62aff181-7479-4134-bb2e-9acbbf062a3b___RS_Late.B 6449.JPG,256,256,lateblight,134,116,165,147
+/images/valid/96231bbd-d315-48e1-8631-f318b29cb60d___RS_Late.B 7080.JPG,256,256,lateblight,127,94,156,124
+/images/valid/6d8ee18d-8dcf-48b1-aec6-60752c839ee1___RS_Late.B 6887_flipLR.JPG,256,256,lateblight,139,78,160,107
+/images/valid/03e9b07f-582d-4a76-9a9c-aeacc96e4284___RS_L.Scorch 0870.JPG,256,256,leafscorch,49,100,83,140
+/images/valid/2e62a850-078e-44ce-ac30-6b940479e017___RS_Late.B 6080_flipLR.JPG,256,256,lateblight,65,70,88,104
+/images/valid/6302a8c1-ab60-496c-80a0-e96b47722ea3___GHLB2 Leaf 8737.JPG,256,256,lateblight,90,97,116,125
+/images/valid/752d3a4c-a828-43ed-8256-28586b1fc0b9___RS_L.Scorch 1200.JPG,256,256,leafscorch,81,47,105,74
+/images/valid/aaa5e2ef-23d0-444e-9bc6-95f09fe94eab___RS_L.Scorch 1470_flipLR.JPG,256,256,leafscorch,107,150,134,177
+/images/valid/958370d9-c78b-4436-8602-f5d0ca49cc94___RS_L.Scorch 0938.JPG,256,256,leafscorch,78,73,102,114
+/images/valid/d5d97236-2cf4-4910-a0a9-b15223afbdbf___RS_Late.B 6049.JPG,256,256,lateblight,95,120,122,149
+/images/valid/928fd5a7-5b1f-4fc0-af9f-4e159c4eee4a___RS_L.Scorch 1094_flipLR.JPG,256,256,leafscorch,178,126,204,160
+/images/valid/2b3bc2ea-6604-4b73-9e6d-023211f1ebc4___GHLB2 Leaf 112.2_flipLR.JPG,256,256,lateblight,107,176,140,200
+/images/valid/1b2756ef-4fa0-410a-8fe5-a8b699d3553e___GHLB2 Leaf 156.2.JPG,256,256,lateblight,141,158,168,185
+/images/valid/761f5853-82c3-4f08-ba2c-d632350aa9e3___RS_L.Scorch 1158.JPG,256,256,leafscorch,79,51,114,78
+/images/valid/9c9af338-d0e6-4fe2-b403-c9706a6aff9b___RS_L.Scorch 0122_flipLR.JPG,256,256,leafscorch,29,156,59,183
+/images/valid/3ed88d41-890c-4fb3-96be-151e0bb7e2a5___RS_L.Scorch 1080.JPG,256,256,leafscorch,208,73,235,108
+/images/valid/d2c04ad0-6dbc-4f9c-8566-446bcc9b5953___GHLB2 Leaf 8679.JPG,256,256,lateblight,98,110,130,134
+/images/valid/bb1be648-63dc-4973-8c88-f3de0dff30f4___RS_Late.B 6030.JPG,256,256,lateblight,128,126,157,150
+/images/valid/6c7243ea-1e4b-4166-ae4c-9f99bb84fe4d___GHLB2 Leaf 128.2.JPG,256,256,lateblight,135,135,162,173
+/images/valid/6c7243ea-1e4b-4166-ae4c-9f99bb84fe4d___GHLB2 Leaf 128.2.JPG,256,256,lateblight,60,80,86,107
+/images/valid/7ac5bc30-d798-4205-a5a6-1235eae3a66d___RS_L.Scorch 1533_flipLR.JPG,256,256,leafscorch,51,83,83,111
+/images/valid/5f6ead43-4a36-4bd6-8ee6-75f405a40e67___RS_L.Scorch 0807.JPG,256,256,leafscorch,115,52,138,79
+/images/valid/9e633823-3dde-450c-8172-733021e4dff0___RS_Late.B 6414.JPG,256,256,lateblight,83,117,110,145
+/images/valid/3fae9c64-18f0-4a67-9f97-554248bb1bed___GHLB_PS Leaf 24 Day 16.jpg,256,256,lateblight,74,103,91,121
+/images/valid/36df35a3-3099-48c0-a9c4-e16c1bcb0573___RS_Late.B 6401.JPG,256,256,lateblight,74,83,108,114
+/images/valid/7f847477-1111-4f20-9de5-56153bee415b___RS_Late.B 5049_flipLR.JPG,256,256,lateblight,84,91,130,119
+/images/valid/7616d956-c144-4105-9972-5f747c5159a6___RS_Late.B 5600.JPG,256,256,lateblight,141,56,166,86
+/images/valid/7e92fb02-314e-4cad-a30d-e478b216bce4___RS_Late.B 6890_flipLR.JPG,256,256,lateblight,147,165,177,196
+/images/valid/e609db4a-77b0-4f0d-9a36-74b63fa785ab___RS_L.Scorch 1589_flipLR.JPG,256,256,leafscorch,193,63,219,91
+/images/valid/3869a630-48d2-4b52-82d1-0de064f14c3e___RS_L.Scorch 0936.JPG,256,256,leafscorch,94,70,121,104
+/images/valid/815a964f-f313-4acd-8b42-91e21f0cacb9___RS_L.Scorch 1397.JPG,256,256,leafscorch,134,44,160,73
+/images/valid/dec3cbbe-0312-4e87-b223-23014a4b2994___RS_L.Scorch 0021.JPG,256,256,leafscorch,75,132,103,160
+/images/valid/40a79a6f-e1fc-428c-bd57-3af1a7236156___RS_Late.B 5432.JPG,256,256,lateblight,125,136,153,168
+/images/valid/40a79a6f-e1fc-428c-bd57-3af1a7236156___RS_Late.B 5432.JPG,256,256,lateblight,87,67,121,91
+/images/valid/792a3e5e-d5f8-467d-a266-66834b4b7036___GHLB2 Leaf 129.1.JPG,256,256,lateblight,85,114,115,148
+/images/valid/c4e17a14-ebac-4e2b-b00f-8b6b5e267b42___RS_Late.B 5097.JPG,256,256,lateblight,124,135,155,164
+/images/valid/b07f5c6e-2e85-4b45-a166-522cc484619c___RS_Late.B 6276.JPG,256,256,lateblight,88,144,127,176
+/images/valid/008ebb44-eb77-4843-b621-4b88b5df7d43___RS_Late.B 5188.JPG,256,256,lateblight,152,90,191,119
+/images/valid/d6027b84-ede4-4b4a-b76b-3fa65f4e663c___RS_Late.B 5198.JPG,256,256,lateblight,79,84,109,109
+/images/valid/e35b53dc-7151-4d66-a2bf-3b092c758b6f___RS_L.Scorch 0026_flipLR.JPG,256,256,leafscorch,193,84,217,108
+/images/valid/79e0bffd-64f8-4197-953e-4b22e46aeb2c___RS_L.Scorch 1298_flipLR.JPG,256,256,leafscorch,200,71,228,105
+/images/valid/a87b8e0c-2279-4cf7-85a4-0fba63130902___RS_Late.B 5323.JPG,256,256,lateblight,185,86,208,116
+/images/valid/8938dd69-1d88-4885-8a20-b0db3ab84817___RS_Late.B 5417.JPG,256,256,lateblight,156,139,190,170
+/images/valid/2bdc3e10-2225-46b7-9808-ff6d9553901a___RS_L.Scorch 1543.JPG,256,256,leafscorch,192,120,219,146
+/images/valid/5bf08fc4-3629-4ba8-9aef-9af9c4ea9f83___RS_L.Scorch 0840.JPG,256,256,leafscorch,25,194,46,222
+/images/valid/eda41abe-61cf-439d-9562-e03fee3cd2ca___GHLB2 Leaf 8802.JPG,256,256,lateblight,125,122,155,147
+/images/valid/4462526f-af54-4342-8f7d-56f5a6052e9b___GHLB2 Leaf 111.1.JPG,256,256,lateblight,122,105,147,133
+/images/valid/9b100988-4895-43bb-be03-2cc291f15cb1___RS_L.Scorch 1529.JPG,256,256,leafscorch,105,56,138,101
+/images/valid/a8fc49cf-c74f-40a6-a53b-3dddd42bb8bd___GHLB2 Leaf 9040.JPG,256,256,lateblight,107,176,134,198
+/images/valid/1e5ba644-efeb-4bd3-b878-a0606cf8a992___RS_Late.B 6272_flipLR.JPG,256,256,lateblight,123,107,157,133
+/images/valid/edf78517-a51f-4315-af31-9fa1e6913f47___RS_L.Scorch 0827_flipLR.JPG,256,256,leafscorch,161,56,187,88
+/images/valid/f0afdb9e-9af4-4c0a-b1b0-67db12985d3d___RS_L.Scorch 1498_flipLR.JPG,256,256,leafscorch,97,55,124,78
+/images/valid/9a29c345-efa4-4583-b3ba-2e1eadab4fb7___RS_L.Scorch 1076_flipLR.JPG,256,256,leafscorch,183,140,221,163
+/images/valid/4ca113ee-0468-483d-be29-68a27bf60a71___GHLB2 Leaf 8890_flipLR.JPG,256,256,lateblight,129,103,146,127
+/images/valid/97fc0a8d-280a-44e2-811d-71419f9a5526___RS_L.Scorch 1277.JPG,256,256,leafscorch,168,56,194,81
+/images/valid/01d11a79-f858-4e58-9b14-c3f0619af1f7___RS_L.Scorch 0090_flipLR.JPG,256,256,leafscorch,100,100,136,119
+/images/valid/51dad556-b8be-4e77-8bbd-427deab4eeba___RS_L.Scorch 1538_flipLR.JPG,256,256,leafscorch,66,63,94,91
+/images/valid/0da53824-7b3b-43a9-9b34-146a7f71ef7e___RS_Late.B 6958_flipLR.JPG,256,256,lateblight,149,117,170,148
+/images/valid/781582d3-8bad-4e20-9073-e1fa1b50abba___RS_Late.B 6269.JPG,256,256,lateblight,110,99,139,132
+/images/valid/9579c6e9-8fbc-4b6c-8201-8bd3d4a6b64f___RS_L.Scorch 0779.JPG,256,256,leafscorch,102,128,125,157
+/images/valid/44e96c62-48e6-454c-bab5-c34569deb2a5___RS_Late.B 5162.JPG,256,256,lateblight,153,128,189,155
+/images/valid/44e96c62-48e6-454c-bab5-c34569deb2a5___RS_Late.B 5162.JPG,256,256,lateblight,59,89,93,113
+/images/valid/46ae5fef-ca7d-4f8d-86dc-7906bfcbde9f___RS_Late.B 5092.JPG,256,256,lateblight,147,140,166,157
+/images/valid/84b7d3ab-56ae-4eef-a852-7b32f3ef0160___GHLB2 Leaf 150.JPG,256,256,lateblight,57,102,101,132
+/images/valid/0524e8c4-56d9-41e2-b22d-33f22950ff93___RS_Late.B 5320.JPG,256,256,lateblight,95,138,124,166
+/images/valid/7bfcbef0-e281-4921-a679-c6529d68a6ee___RS_L.Scorch 1466_flipLR.JPG,256,256,leafscorch,145,82,166,105
+/images/valid/3dcee9ed-43bb-45a9-8cff-641b3dd62179___RS_Late.B 5324.JPG,256,256,lateblight,176,142,212,172
+/images/valid/2dd283a8-54e6-4676-ac5b-76e548a4ca82___RS_L.Scorch 1346_flipLR.JPG,256,256,leafscorch,152,27,186,57
+/images/valid/2dd283a8-54e6-4676-ac5b-76e548a4ca82___RS_L.Scorch 1346_flipLR.JPG,256,256,leafscorch,28,99,60,135
+/images/valid/7e77fde0-ab1b-4256-be51-0f6eecf85007___RS_Late.B 6995_flipLR.JPG,256,256,lateblight,168,85,192,109
+/images/valid/f7f364a3-98dc-4647-8bf3-5114242fc61f___RS_L.Scorch 1393_flipLR.JPG,256,256,leafscorch,68,75,102,106
+/images/valid/5a701380-2b9d-4dc4-9376-56ff0361a1dd___GHLB2 Leaf 8871_flipLR.JPG,256,256,lateblight,135,90,164,117
+/images/valid/64e8fe57-b397-413c-a365-1158b9adb6cb___RS_Late.B 5328.JPG,256,256,lateblight,149,93,181,126
+/images/valid/018eaeaf-82a5-407c-87f2-fc7edfc89ecc___RS_L.Scorch 0951_flipLR.JPG,256,256,leafscorch,61,53,98,78
+/images/valid/be9f181f-5692-4811-9678-69dbe94d6ecc___RS_Late.B 4838.JPG,256,256,lateblight,142,110,174,140
+/images/valid/f582a1b2-636d-4a0e-a113-5dcfb5c2d7e8___GHLB2 Leaf 9098.JPG,256,256,lateblight,88,145,116,172
+/images/valid/ee90e57e-7289-4dcd-af6f-a585d97628b7___RS_Late.B 7040.JPG,256,256,lateblight,55,183,85,210
+/images/valid/d1c1488e-f121-4b32-a7f6-24c25ee6b766___RS_Late.B 7102.JPG,256,256,lateblight,108,89,138,120
+/images/valid/bf014d78-5f3a-4748-a026-dc80d95cbc3f___GHLB2 Leaf 164.JPG,256,256,lateblight,109,139,133,167
+/images/valid/c68a177e-bd9d-4995-a8ab-9ef75bcef2fe___GHLB2 Leaf 8995.JPG,256,256,lateblight,128,101,154,120
+/images/valid/dbbe0ac5-5cb6-4bcd-940a-f0a8104d4e79___RS_Late.B 6067.JPG,256,256,lateblight,93,178,126,209
+/images/valid/5286ac37-b3ce-4177-bf6f-24ff545cabdd___RS_L.Scorch 1053.JPG,256,256,leafscorch,39,103,71,130
+/images/valid/19369d60-553a-416b-9378-84f4a1d203d9___GHLB2 Leaf 9006.JPG,256,256,lateblight,98,159,118,185
+/images/valid/151f5f35-cb9c-43f5-bb96-07d5086f9e87___RS_L.Scorch 1047_flipLR.JPG,256,256,leafscorch,41,81,74,119
+/images/valid/e479463e-ecf2-4b9d-bac1-4dd698b13b81___RS_L.Scorch 1348.JPG,256,256,leafscorch,163,74,180,102
+/images/valid/566f6d0f-e441-49a3-a7a1-a3210682b6e7___GHLB2 Leaf 8591.JPG,256,256,lateblight,128,176,159,201
+/images/valid/91b7a899-ee48-4bc2-98a9-f6a5fbf01a1d___RS_Late.B 5084.JPG,256,256,lateblight,123,115,153,143
+/images/valid/aa5dab5c-46b9-40ad-bd23-375b96cbdfa0___RS_L.Scorch 1044_flipLR.JPG,256,256,leafscorch,82,36,98,69
+/images/valid/8e704613-f271-417f-8d8a-8b510a327a77___RS_L.Scorch 1398.JPG,256,256,leafscorch,143,46,165,75
+/images/valid/4fc2334d-be0a-45f9-970d-be7a0f6a6c2a___RS_Late.B 6268.JPG,256,256,lateblight,141,116,189,150
+/images/valid/9aaf4a7d-12ac-457a-a18c-1f7ea13065de___RS_Late.B 5179.JPG,256,256,lateblight,153,131,189,161
+/images/valid/74bfd410-bb0e-4cf1-8dfe-466385f6d522___RS_Late.B 5355.JPG,256,256,lateblight,138,156,166,191
+/images/valid/cc73f050-1676-4844-8fee-8ec57219b3c5___RS_L.Scorch 1216_flipLR.JPG,256,256,leafscorch,66,65,97,97
+/images/valid/d6dde2e1-097a-4d45-b646-0110aaa06107___GHLB2 Leaf 8816.JPG,256,256,lateblight,135,96,160,128
+/images/valid/5b80231f-8012-42bb-97d0-12c48a4a2450___GHLB2 Leaf 8546.JPG,256,256,lateblight,85,162,122,192
+/images/valid/3ce5d5e5-3f64-45d2-b7ca-1b6d7141e5d8___RS_L.Scorch 1586_flipLR.JPG,256,256,leafscorch,131,62,161,98
+/images/valid/94f6ed8a-9bd1-4d29-b862-d195209d29d2___RS_L.Scorch 0027.JPG,256,256,leafscorch,134,26,155,68
+/images/valid/ef86303b-ac0f-49bf-8cfb-77a3e0b6a1d1___RS_L.Scorch 0977.JPG,256,256,leafscorch,61,154,96,189
+/images/valid/d69cda61-f13d-4d73-9a4b-ac0e7c386389___GHLB2 Leaf 98.JPG,256,256,lateblight,109,142,129,177
+/images/valid/ee85b4a0-f9ee-40a6-b612-66dd11414929___RS_Late.B 5069.JPG,256,256,lateblight,134,106,163,131
+/images/valid/e90482fd-1a84-462a-b28d-cb9b6aee18eb___RS_Late.B 6161.JPG,256,256,lateblight,81,211,113,233
+/images/valid/4b7562fc-5fec-4522-af49-f874b3ec7840___RS_L.Scorch 1152_flipLR.JPG,256,256,leafscorch,166,105,204,152
+/images/valid/93e0b7bd-ec6a-425f-b365-b66f4af7cb52___RS_L.Scorch 0933_flipLR.JPG,256,256,leafscorch,190,45,212,73
+/images/valid/792efdf2-3814-48e7-a8db-16b63394176e___RS_L.Scorch 1082.JPG,256,256,leafscorch,161,87,191,122
+/images/valid/0d02dec3-bad2-4dba-a2d5-480b6fdf3d7a___RS_L.Scorch 1157.JPG,256,256,leafscorch,83,179,120,210
+/images/valid/9f03c242-ec82-4e5c-a310-cfc080dcd65a___RS_L.Scorch 0981.JPG,256,256,leafscorch,93,198,125,228
+/images/valid/42b77623-13ea-4c21-b348-c887f61ce441___RS_L.Scorch 1030_flipLR.JPG,256,256,leafscorch,176,37,212,71
+/images/valid/6dcf84e4-bfbc-467d-83d8-546c22779f6d___GHLB2 Leaf 76.1_flipLR.JPG,256,256,lateblight,125,75,148,120
+/images/valid/0605d1be-b99b-408d-bace-e5ba23e72b27___RS_Late.B 5282.JPG,256,256,lateblight,136,127,162,147
+/images/valid/fdbc3a0b-5da5-452d-a6e4-b5a5e6dc396a___GHLB2 Leaf 8575.JPG,256,256,lateblight,71,142,101,177
+/images/valid/2794f151-67b4-409c-a886-903a524b5345___RS_L.Scorch 0022.JPG,256,256,leafscorch,112,85,131,116
+/images/valid/928fd5a7-5b1f-4fc0-af9f-4e159c4eee4a___RS_L.Scorch 1094.JPG,256,256,leafscorch,140,39,171,64
+/images/valid/df7ff572-ad8c-4e62-8d42-713a0b848754___RS_L.Scorch 1339_flipLR.JPG,256,256,leafscorch,166,54,191,80
+/images/valid/5e599e1c-faec-4264-b75e-da5b1add635a___RS_L.Scorch 1228.JPG,256,256,leafscorch,99,85,129,117
+/images/valid/0c685839-d936-42aa-be57-fb90a416528b___RS_L.Scorch 0808_flipLR.JPG,256,256,leafscorch,45,81,74,110
+/images/valid/47e92d20-e9f4-473c-8ca2-7ee794e4439b___RS_L.Scorch 1257_flipLR.JPG,256,256,leafscorch,129,52,153,98
+/images/valid/8c13a3dc-b380-4a2f-b468-660212d8dbf0___RS_Late.B 5405_flipLR.JPG,256,256,lateblight,169,93,195,117
+/images/valid/c14302ad-0333-4038-8b4f-a4f75049fbaa___RS_Late.B 6939.JPG,256,256,lateblight,128,78,155,106
+/images/valid/6c9c73fa-5c8d-40ce-9221-a600908bff33___RS_Late.B 4893_flipLR.JPG,256,256,lateblight,156,86,182,108
+/images/valid/b882a8dc-1956-448f-890a-fd188b7cc194___RS_L.Scorch 1010.JPG,256,256,leafscorch,161,142,196,172
+/images/valid/eaf7b374-1627-486d-8592-ee2df00abf4a___RS_L.Scorch 1392.JPG,256,256,leafscorch,119,56,144,91
+/images/valid/8a30f29e-e288-46a9-b806-dcffc9b5845f___RS_L.Scorch 1492.JPG,256,256,leafscorch,170,90,206,129
+/images/valid/5e4669c3-c980-4fb7-84ee-c2b92f55ac3d___RS_L.Scorch 1178.JPG,256,256,leafscorch,107,41,152,86
+/images/valid/bba9c7cc-21d8-43b7-acb2-9c079f810f89___RS_Late.B 6798.JPG,256,256,lateblight,123,141,153,164
+/images/valid/9c9e2bcf-db46-4269-ab25-756bb93ba03c___RS_L.Scorch 1462.JPG,256,256,leafscorch,144,149,164,180
+/images/valid/64038e44-15e8-461d-99bb-11adbd80048a___RS_L.Scorch 1502_flipLR.JPG,256,256,leafscorch,136,81,166,114
+/images/valid/0a99c28d-18e3-4250-bac6-84a810438e0b___RS_L.Scorch 0154_flipLR.JPG,256,256,leafscorch,194,93,220,138
+/images/valid/1ab30bde-88a4-4e29-855e-fa7a6ec1e226___RS_Late.B 5145.JPG,256,256,lateblight,118,139,146,165
+/images/valid/5fdf3288-d5f4-4c70-9b12-95222b82d415___RS_Late.B 4942_flipLR.JPG,256,256,lateblight,100,125,126,160
+/images/valid/5a4aaf4f-0d8a-4e9b-9039-5113744b1ecb___RS_L.Scorch 1315.JPG,256,256,leafscorch,187,131,213,170
+/images/valid/f43df4fe-4544-4831-b9f9-a3c7b470b0e0___RS_Late.B 6801.JPG,256,256,lateblight,132,116,172,147
+/images/valid/6cdc826a-3b6a-40e9-8dc9-03e17947a040___RS_L.Scorch 1056_flipLR.JPG,256,256,leafscorch,47,113,76,140
+/images/valid/c91400cf-83f0-4472-9504-3234ccecf65c___RS_Late.B 5218.JPG,256,256,lateblight,78,86,104,115
+/images/valid/c91400cf-83f0-4472-9504-3234ccecf65c___RS_Late.B 5218.JPG,256,256,lateblight,146,151,179,183
+/images/valid/3fcbbb8e-c7dc-4921-b8b6-bc118b877a82___RS_Late.B 5059.JPG,256,256,lateblight,180,95,212,121
+/images/valid/4ab57bec-a118-4686-a9dd-f6ee3cdd0c55___GHLB2 Leaf 8695_flipLR.JPG,256,256,lateblight,124,160,145,187
+/images/valid/31f64c4e-cb26-44a6-a208-5a88d7d486e8___GHLB2 Leaf 8889.JPG,256,256,lateblight,103,101,130,132
+/images/valid/3d5c1145-b344-4965-afba-5e30fea822b5___RS_L.Scorch 1009_flipLR.JPG,256,256,leafscorch,43,101,73,129
+/images/valid/11e01399-e741-49de-b59c-aa2c2f1a0f66___RS_L.Scorch 1603.JPG,256,256,leafscorch,182,112,211,152
+/images/valid/5c715755-192c-4d69-8740-e778e4a66618___RS_Late.B 6215_flipLR.JPG,256,256,lateblight,178,108,205,144
+/images/valid/13971547-97a9-4bc8-b843-93aa3247351d___RS_L.Scorch 0932_flipLR.JPG,256,256,leafscorch,193,141,216,178
+/images/valid/a522c9a1-15de-415b-8d7e-13568ee4d9e3___RS_L.Scorch 0964_flipLR.JPG,256,256,leafscorch,52,115,74,141
+/images/valid/abcc6c2f-778b-40e0-b7d3-24698f02aa8a___RS_L.Scorch 0947_flipLR.JPG,256,256,leafscorch,153,60,185,87
+/images/valid/4f52cae6-d6f1-4557-987a-eb9318dc574f___RS_Late.B 6439_flipLR.JPG,256,256,lateblight,115,88,137,113
+/images/valid/f80ccc0b-c422-485a-a2be-332769eb5ef4___GHLB2 Leaf 8704.JPG,256,256,lateblight,146,158,166,188
+/images/valid/4b1e034b-d3c8-4db4-a105-258cbd1227fb___RS_L.Scorch 9906.JPG,256,256,leafscorch,38,98,67,140
+/images/valid/e4ec79b5-94df-42dd-8425-bd68d2320c5f___RS_Late.B 5406.JPG,256,256,lateblight,116,73,145,98
+/images/valid/c98934d4-3c6f-4fd4-b670-a447239afcd9___RS_L.Scorch 1540.JPG,256,256,leafscorch,191,101,226,126
+/images/valid/3721afdd-4c45-4451-bda5-27b7006ec668___RS_L.Scorch 0156.JPG,256,256,leafscorch,48,134,78,156
+/images/valid/e32af66d-5145-4b2c-8fb9-246fcca3a299___RS_L.Scorch 1154_flipLR.JPG,256,256,leafscorch,66,104,87,136
+/images/valid/e95ca31b-0e75-4ec5-986a-29ce5dce1a01___GHLB2 Leaf 8643.JPG,256,256,lateblight,101,50,126,82
+/images/valid/3ed88d41-890c-4fb3-96be-151e0bb7e2a5___RS_L.Scorch 1080_flipLR.JPG,256,256,leafscorch,58,76,92,103
+/images/valid/8ea73da6-e94c-42bf-8b9c-c8d0a58338c7___RS_Late.B 6724.JPG,256,256,lateblight,74,57,100,85
+/images/valid/9f7dcd60-e691-4c1e-830e-7495f7cc123d___RS_Late.B 6166.JPG,256,256,lateblight,130,42,158,63
+/images/valid/5c52d886-ca5e-4e3c-82f9-6d4b7a1d2bc8___RS_L.Scorch 1212_flipLR.JPG,256,256,leafscorch,118,95,147,124
+/images/valid/be4670f5-bbdf-465b-ae88-9b7bb30355f1___RS_L.Scorch 0132.JPG,256,256,leafscorch,199,94,230,115
+/images/valid/052ec825-37a3-4467-a5ea-2e0601c29fbd___RS_Late.B 6786.JPG,256,256,lateblight,47,160,72,178
+/images/valid/bd10f32e-3a27-4a58-9def-62555e99b223___RS_Late.B 6768.JPG,256,256,lateblight,147,169,182,192
+/images/valid/9d368867-837e-442b-a45f-d0d3d3f4cf13___RS_L.Scorch 0057.JPG,256,256,leafscorch,193,157,220,178
+/images/valid/28d91e73-4362-4a5f-bceb-980f5a0e1f8e___RS_Late.B 6228.JPG,256,256,lateblight,56,184,88,218
+/images/valid/01cd2d73-c741-45a5-9610-a2cea2266b80___GHLB2 Leaf 121_flipLR.JPG,256,256,lateblight,122,138,148,163
+/images/valid/e1501757-3235-4051-b460-52c0f6e45add___RS_Late.B 4910.JPG,256,256,lateblight,88,119,121,148
+/images/valid/cec774a0-92f4-4446-af6a-f0743e667461___RS_Late.B 5171.JPG,256,256,lateblight,138,150,195,177
+/images/valid/36972d78-29ec-43b7-aa31-c9e2a08e4c35___RS_L.Scorch 1012_flipLR.JPG,256,256,leafscorch,54,81,79,106
+/images/valid/c421eebc-d8ec-42d7-bcc9-a615343216a0___GHLB2 Leaf 8912.JPG,256,256,lateblight,117,80,141,100
+/images/valid/3e7acc8a-73b1-4c21-bc67-bb6e65c4d373___GHLB Leaf 8.1 Day 12_flipLR.JPG,256,256,lateblight,130,132,156,168
+/images/valid/532b2c20-d17b-4b3e-a69e-54a6e5343014___GHLB2 Leaf 9004.JPG,256,256,lateblight,89,133,110,168
+/images/valid/443c9ee2-4656-4752-bab8-650c4cd03d0a___RS_L.Scorch 1087.JPG,256,256,leafscorch,167,135,195,163
+/images/valid/a5e71962-bf6d-486d-ab54-14004feb76da___RS_Late.B 6088.JPG,256,256,lateblight,86,125,108,146
+/images/valid/7f4621fe-72ce-4f4c-a20e-320250ec8a9d___RS_Late.B 5556_flipLR.JPG,256,256,lateblight,67,75,94,101
+/images/valid/2164b3f8-102c-481c-9d89-7e2f6087a121___RS_Late.B 5065.JPG,256,256,lateblight,155,85,187,110
+/images/valid/7a178f96-d94b-481a-98be-4eb73672f864___RS_L.Scorch 1278_flipLR.JPG,256,256,leafscorch,99,26,127,58
+/images/valid/3d43c9c6-7b87-4c79-819c-e202de44236c___GHLB2 Leaf 89.3.JPG,256,256,lateblight,160,7,192,36
+/images/valid/81425428-d995-492c-80ba-c28564d8f317___RS_Late.B 6265.JPG,256,256,lateblight,111,163,139,190
+/images/valid/4d6314e5-b280-4872-8eb6-cf4632934ae3___GHLB2 Leaf 81_flipLR.JPG,256,256,lateblight,77,43,99,72
+/images/valid/70fa3718-7288-47cb-8e13-a16afbec4fe6___GHLB2 Leaf 127.JPG,256,256,lateblight,83,154,115,179
+/images/valid/ee0c6d7f-7728-406b-b715-67ba31384954___RS_Late.B 5293.JPG,256,256,lateblight,80,141,118,167
+/images/valid/ee0c6d7f-7728-406b-b715-67ba31384954___RS_Late.B 5293.JPG,256,256,lateblight,163,102,208,133
+/images/valid/777d1460-e356-4b0a-9fb2-cd0931146c5b___RS_Late.B 5190.JPG,256,256,lateblight,125,152,159,185
+/images/valid/2c2326e9-eb07-45c1-8296-116df4108c03___RS_Late.B 4834.JPG,256,256,lateblight,101,107,127,140
+/images/valid/8c787d8d-2cf5-462b-8695-cb881f9e59fe___RS_L.Scorch 1007_flipLR.JPG,256,256,leafscorch,45,104,72,131
+/images/valid/22ec5a13-b81a-430c-aae5-86c46eb7f091___RS_L.Scorch 0862.JPG,256,256,leafscorch,64,93,88,121
+/images/valid/e03114a0-8053-460a-b653-eef873b1c531___RS_Late.B 5532.JPG,256,256,lateblight,117,110,149,147
+/images/valid/138221c0-7ae2-4407-ba88-ffd1e711204b___RS_L.Scorch 1587.JPG,256,256,leafscorch,25,109,55,138
+/images/valid/30d8e2ff-ae19-4d1b-be24-cb14e131eadc___RS_L.Scorch 1344_flipLR.JPG,256,256,leafscorch,54,66,87,102
+/images/valid/e3df7441-295f-4a70-833c-4127b5b738d5___GHLB2 Leaf 8760.JPG,256,256,lateblight,130,96,155,129
+/images/valid/2f54dce1-5aa1-43fb-8eb4-8aeb18419440___RS_L.Scorch 0029.JPG,256,256,leafscorch,186,121,212,155
+/images/valid/049dbcab-de65-4f09-9b1b-e59886f56f2e___RS_Late.B 5141.JPG,256,256,lateblight,125,65,153,92
+/images/valid/f8c43823-8efa-4f97-8e37-8ab7e0115fd0___RS_L.Scorch 1604_flipLR.JPG,256,256,leafscorch,52,74,77,104
+/images/valid/5c6dfda8-1d4e-4ad0-92b1-5c6ffc790ea1___RS_Late.B 6223_flipLR.JPG,256,256,lateblight,129,186,157,213
+/images/valid/60bdbf17-c59d-48de-bfc1-a6c0bda17a9e___RS_Late.B 4840.JPG,256,256,lateblight,121,153,151,181
+/images/valid/60bdbf17-c59d-48de-bfc1-a6c0bda17a9e___RS_Late.B 4840.JPG,256,256,lateblight,182,28,205,52
+/images/valid/5c5a2e9e-e460-403e-9d8a-f961b1f10935___RS_Late.B 5133_flipLR.JPG,256,256,lateblight,96,113,127,142
+/images/valid/5e046b07-5da5-4cfd-a6f1-bb942eeef5f9___RS_Late.B 6216.JPG,256,256,lateblight,82,106,106,130
+/images/valid/4f12205c-0035-48ed-b6b0-56f347fe2ab0___RS_Late.B 5085_flipLR.JPG,256,256,lateblight,156,162,182,186
+/images/valid/f7fbc156-4bc0-4156-9294-3d288abe6dbf___RS_L.Scorch 0805_flipLR.JPG,256,256,leafscorch,75,131,94,156
+/images/valid/a0cdaa93-f328-466d-9722-57a29c53e18b___RS_Late.B 7006.JPG,256,256,lateblight,154,166,192,195
+/images/valid/2353e9af-9267-4262-840e-1eb109fff56c___RS_Late.B 5135.JPG,256,256,lateblight,124,50,152,78
+/images/valid/47a38705-6d43-429c-b3f6-54c01f3b08e8___GHLB2 Leaf 8718.JPG,256,256,lateblight,77,84,106,113
+/images/valid/9c726f4e-045b-4080-b53d-d7e66d45bcb1___RS_Late.B 4876.JPG,256,256,lateblight,180,58,205,84
+/images/valid/4f7ef1ad-0f24-41a9-9d62-6bf1c406c980___RS_L.Scorch 1070.JPG,256,256,leafscorch,17,119,60,147
+/images/valid/3c2f237b-3e91-455f-8064-428b308bc575___RS_Late.B 5291.JPG,256,256,lateblight,149,133,184,168
+/images/valid/3c2f237b-3e91-455f-8064-428b308bc575___RS_Late.B 5291.JPG,256,256,lateblight,81,72,112,99
+/images/valid/d8b0ded7-7d30-4b52-acea-d1a3ca70a392___RS_Late.B 6096.JPG,256,256,lateblight,104,143,133,171
+/images/valid/d8b0ded7-7d30-4b52-acea-d1a3ca70a392___RS_Late.B 6096.JPG,256,256,lateblight,184,127,214,156
+/images/valid/aa5e6a40-afc1-47e5-80a3-e41fb9e5a40b___GHLB2 Leaf 9085.JPG,256,256,lateblight,129,173,154,199
+/images/valid/64a054b2-4375-48ff-aca3-f823d64d831e___RS_Late.B 7123.JPG,256,256,lateblight,94,96,128,128
+/images/valid/c5b2af5b-c27f-4ed3-83e5-e2bfe096f024___RS_Late.B 6918.JPG,256,256,lateblight,57,152,84,183
+/images/valid/48246fa8-29ce-4ae2-abc3-586440295cf0___RS_Late.B 5459.JPG,256,256,lateblight,127,126,156,157
+/images/valid/0957e6d7-9bf3-40c6-9b51-a4b53b868dc8___RS_L.Scorch 1345.JPG,256,256,leafscorch,32,112,61,152
+/images/valid/934cc025-d086-441c-8d0d-71050ab956aa___RS_Late.B 6740.JPG,256,256,lateblight,166,161,195,185
+/images/valid/934cc025-d086-441c-8d0d-71050ab956aa___RS_Late.B 6740.JPG,256,256,lateblight,80,137,108,161
+/images/valid/6e42a5dd-9354-454e-bca2-ea0cb4663de4___GHLB2 Leaf 8675.JPG,256,256,lateblight,86,84,113,115
+/images/valid/4e6bb3fe-cc04-4ebd-affa-0a48d9a5868d___RS_L.Scorch 1546.JPG,256,256,leafscorch,132,38,168,82
+/images/valid/4725a7d8-c7b3-4b3b-bf9d-f9a0e5f5a4da___RS_L.Scorch 1263_flipLR.JPG,256,256,leafscorch,148,69,176,99
+/images/valid/e877b612-7d3e-4ad9-81ae-5dd50979fbb1___RS_Late.B 4949.JPG,256,256,lateblight,78,70,109,100
+/images/valid/5ddbd472-b511-408e-b1cc-8ea77ce93c8c___RS_L.Scorch 1077_flipLR.JPG,256,256,leafscorch,88,169,116,200
+/images/valid/a746e3a1-3018-4c96-8016-e8896687d41d___RS_L.Scorch 0070.JPG,256,256,leafscorch,214,121,247,154
+/images/valid/e8f727ea-5a2a-4896-bb8a-bba7bee116c3___RS_L.Scorch 1215.JPG,256,256,leafscorch,109,105,137,126
+/images/valid/434de896-de99-4b52-a869-c7759415c003___RS_L.Scorch 1567.JPG,256,256,leafscorch,165,50,192,87
+/images/valid/1fa37cd4-066e-4deb-ab99-5fa8dcc4481c___RS_Late.B 5454_flipLR.JPG,256,256,lateblight,149,115,179,140
+/images/valid/94b200a4-720b-414f-8861-8e82389e7657___RS_L.Scorch 1555_flipLR.JPG,256,256,leafscorch,43,126,69,156
+/images/valid/fad5a494-fb9c-4255-befa-d53c629dbfa7___RS_L.Scorch 1487_flipLR.JPG,256,256,leafscorch,136,139,176,167
+/images/valid/ee963b20-1464-49b5-a390-790b05e8daa1___RS_Late.B 5487.JPG,256,256,lateblight,126,90,164,115
+/images/valid/4f47d31b-0890-49a7-ab33-8b5865cb8843___GHLB2 Leaf 80_flipLR.JPG,256,256,lateblight,93,140,128,169
+/images/valid/3e5cf9cb-de15-4d9d-8eb8-3d47c0094f14___RS_Late.B 6208_flipLR.JPG,256,256,lateblight,161,108,190,129
+/images/valid/301b0319-e28a-44ee-836c-92a5e8a5b478___RS_L.Scorch 1558.JPG,256,256,leafscorch,45,81,67,114
+/images/valid/9176c69b-991a-4cd0-bfad-9742ad81a8b4___RS_Late.B 4989.JPG,256,256,lateblight,102,82,129,110
+/images/valid/1f73406a-14e8-4be2-8450-9379d4f9b2b5___GHLB2 Leaf 9062_flipLR.JPG,256,256,lateblight,114,91,137,116
+/images/valid/ae29ceb2-6460-49dd-9590-23012292ddee___RS_L.Scorch 0879.JPG,256,256,leafscorch,34,159,58,184
+/images/valid/5ba153a2-24c0-4b26-a9e2-2d96f52dae46___RS_L.Scorch 0836_flipLR.JPG,256,256,leafscorch,151,222,186,242
+/images/valid/e6636324-6e8e-4981-8bb7-5deafced5fbd___RS_Late.B 5228.JPG,256,256,lateblight,103,94,129,122
+/images/valid/01cff44f-9564-42f7-9a29-3daa487b306a___RS_L.Scorch 1333_flipLR.JPG,256,256,leafscorch,168,65,198,106
+/images/valid/867d2544-e985-4d01-ae0c-9e8d053f6c61___GHLB2 Leaf 9071.JPG,256,256,lateblight,89,183,124,215
+/images/valid/69fff432-3c80-4202-8e8a-7fed08ec0baa___RS_Late.B 6825.JPG,256,256,lateblight,100,94,135,123
+/images/valid/ac89de10-2de8-40a4-8f6e-f0a37e97cd57___RS_Late.B 5126.JPG,256,256,lateblight,142,103,164,127
+/images/valid/cb7d8aec-9b86-4778-a62a-9544051b1eae___RS_L.Scorch 1021.JPG,256,256,leafscorch,36,108,58,146
+/images/valid/0b137624-885b-4d9b-b9e6-330c6681de4b___GHLB2 Leaf 8848.JPG,256,256,lateblight,66,129,82,152
+/images/valid/5eefbe91-fb95-4d86-8954-bea6b3637a9d___RS_Late.B 6444.JPG,256,256,lateblight,91,168,124,196
+/images/valid/5eefbe91-fb95-4d86-8954-bea6b3637a9d___RS_Late.B 6444.JPG,256,256,lateblight,130,106,160,138
+/images/valid/68339bd8-5a90-46c3-b087-0c0584cd706b___RS_L.Scorch 1584.JPG,256,256,leafscorch,48,116,74,147
+/images/valid/68339bd8-5a90-46c3-b087-0c0584cd706b___RS_L.Scorch 1584.JPG,256,256,leafscorch,199,48,223,82
+/images/valid/8a30f29e-e288-46a9-b806-dcffc9b5845f___RS_L.Scorch 1492_flipLR.JPG,256,256,leafscorch,61,106,94,136
+/images/valid/7011a44e-fd95-478e-a4b2-4a3f5f8f08e2___RS_L.Scorch 0146.JPG,256,256,leafscorch,194,115,221,147
+/images/valid/0212ca0a-a34b-45f1-8a5b-73cde45acee0___RS_L.Scorch 1566_flipLR.JPG,256,256,leafscorch,71,32,111,61
+/images/valid/de1b1880-1e42-4f6e-95b4-a48c46ca9eeb___RS_L.Scorch 1519.JPG,256,256,leafscorch,133,52,160,78
+/images/valid/ea8996e6-05f4-4792-9704-e2c796b0fbf2___RS_Late.B 5075.JPG,256,256,lateblight,139,140,167,171
+/images/valid/6e93da35-363f-42f4-af65-e6eeb1217058___GHLB2 Leaf 8780_flipLR.JPG,256,256,lateblight,133,108,155,139
+/images/valid/f7e38a09-77fc-4014-a4cd-7e496d45f5f1___RS_L.Scorch 1175.JPG,256,256,leafscorch,80,71,106,104
+/images/valid/87b91e6c-0e62-471a-a371-7eef8c6917df___RS_L.Scorch 1395_flipLR.JPG,256,256,leafscorch,120,60,158,90
+/images/valid/beadaf43-1ab3-447b-b60a-d9c3cc8214ff___RS_Late.B 6293.JPG,256,256,lateblight,124,152,153,172
+/images/valid/5d1b08e5-92d8-4d4d-9a1b-ba8b92fc1d9a___RS_L.Scorch 0826_flipLR.JPG,256,256,leafscorch,78,84,115,121
+/images/valid/35f54a01-f19e-422c-bf6f-95a4b84bd6cf___RS_L.Scorch 1059.JPG,256,256,leafscorch,134,40,172,72
+/images/valid/9c274db5-2f89-4f3c-b9e2-4d5ebc54ddad___GHLB2 Leaf 9096.JPG,256,256,lateblight,107,169,128,195
+/images/valid/e455feaf-e521-481c-ba4e-e899fb0d49c5___RS_L.Scorch 1159_flipLR.JPG,256,256,leafscorch,167,175,200,201
+/images/valid/5e590575-5588-422f-96a7-5e8c920fc7e2___GHLB2 Leaf 8671.JPG,256,256,lateblight,105,164,134,179
+/images/valid/8890b926-3a8e-434e-9775-bba40fb43839___RS_L.Scorch 1027_flipLR.JPG,256,256,leafscorch,186,72,221,106
+/images/valid/064044ca-4bb3-485f-80a5-9cea1b26d453___RS_L.Scorch 1075.JPG,256,256,leafscorch,117,56,141,105
+/images/valid/8d786c11-5426-4af6-96a0-0c0d9ec804d7___RS_Late.B 5009_flipLR.JPG,256,256,lateblight,48,99,70,131
+/images/valid/0b621f92-ed95-41ed-ad6d-09db095b026c___RS_L.Scorch 1410_flipLR.JPG,256,256,leafscorch,121,33,145,55
+/images/valid/0b621f92-ed95-41ed-ad6d-09db095b026c___RS_L.Scorch 1410_flipLR.JPG,256,256,leafscorch,156,153,183,183
+/images/valid/13638ede-19c5-4e53-b6a2-ea7198b4e8c9___RS_L.Scorch 0905_flipLR.JPG,256,256,leafscorch,120,37,152,67
+/images/valid/6e594cdd-0b3f-41d2-b056-f03819790e8c___RS_Late.B 5348_flipLR.JPG,256,256,lateblight,55,82,85,120
+/images/valid/2dd36c99-7454-499f-8ff5-d25a01568d33___GHLB2 Leaf 99_flipLR.JPG,256,256,lateblight,129,141,151,165
+/images/valid/393d5215-f176-4a08-91fa-b33be46e43b8___RS_L.Scorch 1325.JPG,256,256,leafscorch,37,112,61,129
+/images/valid/0b3c7107-cef9-455e-8fa0-30039b9fc206___RS_Late.B 5038.JPG,256,256,lateblight,125,103,152,120
+/images/valid/6ad57808-1bf1-4273-a7a8-a85d4dabcdf1___RS_Late.B 6243_flipLR.JPG,256,256,lateblight,157,145,188,184
+/images/valid/6ad57808-1bf1-4273-a7a8-a85d4dabcdf1___RS_Late.B 6243_flipLR.JPG,256,256,lateblight,99,62,125,85
+/images/valid/80310e71-b197-444f-a31f-5f2e431c68bb___GHLB2 Leaf 8897.JPG,256,256,lateblight,69,96,91,119
+/images/valid/e381d91a-3def-41ab-ae5f-f156ea4975ed___RS_L.Scorch 1023_flipLR.JPG,256,256,leafscorch,160,42,187,71
+/images/valid/c9c8854f-00f2-4bec-b263-f03354f58114___RS_Late.B 6997.JPG,256,256,lateblight,84,65,113,94
+/images/valid/c50640d9-3647-4ef0-95c5-31fc5e8b688a___GHLB2 Leaf 8908.JPG,256,256,lateblight,93,82,118,109
+/images/valid/aa48f118-9636-4320-99d5-a2a668038683___GHLB2 Leaf 8601.JPG,256,256,lateblight,147,137,167,158
+/images/valid/0212ca0a-a34b-45f1-8a5b-73cde45acee0___RS_L.Scorch 1566.JPG,256,256,leafscorch,48,71,83,102
+/images/valid/c2f279ce-0890-4bfc-81a9-b896fa940027___GHLB2 Leaf 8542.JPG,256,256,lateblight,105,165,127,197
+/images/valid/7e4224e3-dd76-4041-8fe2-c9abf67d3a98___RS_Late.B 6630_flipLR.JPG,256,256,lateblight,95,67,117,91
+/images/valid/418ae33c-5f61-4531-82df-8608d82a7a90___RS_Late.B 5574.JPG,256,256,lateblight,91,107,118,133
+/images/valid/480af90e-7176-4da3-9689-3942a20be40f___RS_L.Scorch 1463.JPG,256,256,leafscorch,135,89,157,112
+/images/valid/cee3f806-a484-4153-9a35-cb133d9ff33b___RS_L.Scorch 1177_flipLR.JPG,256,256,leafscorch,39,146,64,175
+/images/valid/ec420b87-6622-4477-aae7-bc87166e7aa0___RS_L.Scorch 1089.JPG,256,256,leafscorch,47,108,70,138
+/images/valid/23af7051-346c-4eac-b8d0-9d22b6690842___RS_L.Scorch 0944.JPG,256,256,leafscorch,191,100,215,130
+/images/valid/23af7051-346c-4eac-b8d0-9d22b6690842___RS_L.Scorch 0944.JPG,256,256,leafscorch,91,43,125,79
+/images/valid/df7a9adb-6294-4866-9f39-6fc3d7a8ffdf___RS_Late.B 4978.JPG,256,256,lateblight,105,89,140,121
+/images/valid/46e4103f-f240-48cc-ae17-9466fcbec332___RS_Late.B 6650.JPG,256,256,lateblight,161,124,191,159
+/images/valid/c9a74c08-bc2f-4e29-8287-e1d33018cdfa___RS_L.Scorch 1591_flipLR.JPG,256,256,leafscorch,79,75,105,103
+/images/valid/98a95140-e62b-4234-b435-914d67d0afb1___RS_Late.B 6027.JPG,256,256,lateblight,143,73,164,106
+/images/valid/625f5b12-cac4-446f-b6a9-109c1564fec7___RS_L.Scorch 0864.JPG,256,256,leafscorch,54,80,98,120
+/images/valid/eb9ca9ba-2989-46f8-9479-b2ed7c842e53___RS_L.Scorch 1544_flipLR.JPG,256,256,leafscorch,21,114,50,142
+/images/valid/7c249f1b-15d5-4424-91cd-58b52e01cfdb___RS_L.Scorch 1141_flipLR.JPG,256,256,leafscorch,31,115,60,149
+/images/valid/65d2f749-dea4-496c-905a-344352ef6ad3___RS_L.Scorch 1098.JPG,256,256,leafscorch,24,147,53,187
+/images/valid/c5150ba8-d8c4-47a3-9938-83715b767693___RS_Late.B 6912.JPG,256,256,lateblight,75,159,109,189
+/images/valid/6f631d1f-06c4-4314-95fd-f79d5344cfba___RS_Late.B 5027_flipLR.JPG,256,256,lateblight,136,108,157,138
+/images/valid/16064ecf-b035-4531-a6c0-d654dfccd6de___GHLB2 Leaf 8570.JPG,256,256,lateblight,109,124,137,162
+/images/valid/a5d564de-39c2-4f69-935f-3f1036dfd2db___GHLB2 Leaf 8806.JPG,256,256,lateblight,127,167,140,181
+/images/valid/2ccd5383-74a3-41d5-9483-110a20ebf247___RS_Late.B 5329.JPG,256,256,lateblight,111,140,137,162
+/images/valid/2ccd5383-74a3-41d5-9483-110a20ebf247___RS_Late.B 5329.JPG,256,256,lateblight,113,69,139,96
+/images/valid/01b7dc2e-af4a-4708-a6ea-4cb19d6f167c___RS_L.Scorch 0072_flipLR.JPG,256,256,leafscorch,18,147,45,187
+/images/valid/765973d5-5323-4f69-82f8-0bae219a58c2___RS_L.Scorch 1054_flipLR.JPG,256,256,leafscorch,114,36,142,71
+/images/valid/6e45480a-127e-4173-9402-7b724728a139___RS_Late.B 4837.JPG,256,256,lateblight,150,142,187,169
+/images/valid/8390e1a5-7962-4523-a31e-e4928c2e17bc___RS_L.Scorch 0877_flipLR.JPG,256,256,leafscorch,41,178,66,206
+/images/valid/067fa506-1859-485a-9a17-53aaf0e8b1c3___RS_Late.B 6641.JPG,256,256,lateblight,138,150,164,178
+/images/valid/11081be7-ebf9-44b0-aa58-818ccba6f74c___RS_L.Scorch 1573_flipLR.JPG,256,256,leafscorch,44,105,75,142
+/images/valid/d75d625f-502f-4d16-b78f-b87c2a0f10e7___GHLB2 Leaf 8535.JPG,256,256,lateblight,133,139,163,169
+/images/valid/c7249538-0d8d-4d6e-807f-eb693e3586ff___RS_Late.B 6032.JPG,256,256,lateblight,67,93,91,125
+/images/valid/80380588-3ae5-43e3-8acf-541b53e5d44b___RS_Late.B 6542.JPG,256,256,lateblight,170,104,197,133
+/images/valid/13d5364a-7ac5-4c5f-9cf1-23c64499a620___RS_L.Scorch 1342_flipLR.JPG,256,256,leafscorch,147,183,183,216
+/images/valid/d6e9c42c-39cb-42a7-8d9b-a926fe21f926___RS_Late.B 6684.JPG,256,256,lateblight,129,174,155,199
+/images/valid/d6e9c42c-39cb-42a7-8d9b-a926fe21f926___RS_Late.B 6684.JPG,256,256,lateblight,114,60,141,89
+/images/valid/a58d9924-0f70-44f3-ac76-1c2d7fc238e1___RS_Late.B 5086.JPG,256,256,lateblight,116,178,144,199
+/images/valid/9ecb8001-2f48-4487-b287-535dbcfb5c2f___RS_Late.B 6206.JPG,256,256,lateblight,103,70,134,94
